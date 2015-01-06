@@ -1,1 +1,3 @@
-Jekyll Experiments\n===\nExperimenting with Jekyll while digging into Octopres.
+Jekyll Experiments
+===
+Experimenting with Jekyll while digging into Octopres.
