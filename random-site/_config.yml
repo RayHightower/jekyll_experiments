@@ -1,0 +1,10 @@
+# Site settings
+title: Random Site Built With Jekyll
+email: info@wisdomgroup.com
+description: "This is only a test. Even this extra line is a test! Why would someone choose Octopress over Jekyll, or the reverse?"
+baseurl: ""
+url: "http://rayhightower.com"
+
+# Build settings
+markdown: kramdown
+permalink: prett
