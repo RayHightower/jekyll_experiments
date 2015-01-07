@@ -1,5 +1,5 @@
 # Site settings
-title: Random Site Built With Jekyll
+title: Testing Lunr.js with Jekyll
 email: info@wisdomgroup.com
 description: "This is only a test. Even this extra line is a test! Why would someone choose Octopress over Jekyll, or the reverse?"
 baseurl: ""
@@ -10,6 +10,6 @@ markdown: kramdown
 permalink: prett
 
 # Added by to support Lunr.js by RTH on 1/6/2015
-gems: ['jekyll-lunr-js-search']
+# gems: ['jekyll-lunr-js-search']
 
 
