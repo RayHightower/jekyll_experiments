@@ -8,3 +8,8 @@ url: "http://rayhightower.com"
 # Build settings
 markdown: kramdown
 permalink: prett
+
+# Added by to support Lunr.js by RTH on 1/6/2015
+gems: ['jekyll-lunr-js-search']
+
+
